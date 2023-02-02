@@ -1,4 +1,3 @@
-### 안녕하세요 성장하는 개발자 kim yoonho 입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmitsui3point)](https://hits.seeyoufarm.com)
 <!--
 **mitsui3point/mitsui3point** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
